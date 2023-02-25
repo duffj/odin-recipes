@@ -1,6 +1,6 @@
 # odin-recipes
 
-What I practised in this assignment.
+What I practised in this assignment:
 
 HTML Pages:
 
@@ -25,4 +25,4 @@ BASH
 VSCODE
 
 - Prettier
-- Format on save
+- format on save
